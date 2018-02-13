@@ -112,12 +112,13 @@ Need:
 	
 * **Industry Sponsored Projects**:
 	- Spotlights (yearly)
-		- Examples:
-			- [Costco](../templates/Costco%20Graphic.pub)
-			- [CommerceHub](../templates/CommerceHub%20graphic.pub)
-			- [Lighthouse For the Blind](../templates/LFTB%20graphic.pub)
-			- [Paccar](../templates/PACCAR%20graphic.pub)
+		- Examples: 
+			- [Costco](./templates/Costco%20Graphic.pub)
+			- [CommerceHub](./templates/CommerceHub%20graphic.pub)
+			- [Lighthouse For the Blind](./templates/LFTB%20graphic.pub)
+			- [Paccar](./templates/PACCAR%20graphic.pub)
 	- Industry Sponsor Graphic (every 1-2 years)
+		- [logos](./templates/Capstone%20Logos.pptx)
 	- Last year Highlights with Posters (yearly)
 	- Student Resource PDFs and Forms (yearly, get from project center media)
 	
