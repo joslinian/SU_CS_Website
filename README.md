@@ -61,64 +61,70 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 ### 3) Graduate Certificates
 
 ### 4) Student Resources
--Landing
-	-Update Program Overview PDFs (yearly)
-	-Update 2-year course offerings (every 2 years)
-	-Check DreamSpark link (yearly or as changed)
+* Landing
+	- Update Program Overview PDFs (yearly)
+	- Update 2-year course offerings (every 2 years)
+	- Check DreamSpark link (yearly or as changed)
 
-- **Internships**:
-	-Update Internship guide (yearly)
-	-CPT (Curricular Practical Training) Form (yearly)
+* **Internships**:
+	- Update Internship guide (yearly)
+	- CPT (Curricular Practical Training) Form (yearly)
 	
-	-Needs:
+	- Needs:
 	 - [ ] photo and/or spotlight of student.
 	 - [ ] list/graphic of companies where students have received internships
 		
-- **Mentorship**:
-	-Brochure (yearly/as changed)
-	-Pictures (every 1-2 years)
+* **Mentorship**:
+	- Brochure (yearly/as changed)
+	- Pictures (every 1-2 years)
 		
-- **Study Abroad**:
-	-Deadlines (yearly or as changed)
-	-Pictures (every 1-2 years)
+* **Study Abroad**:
+	- Deadlines (yearly or as changed)
+	- Pictures (every 1-2 years)
 	-Popular Programs (as needed or changed)
 	
 ### 5) Activities and News
--Landing 
-	-Slideshow (quarterly-yearly with new event photos)
-	-Events Feed (updated from events folder)
-	-Club Links (when changed, check yearly)
+* Landing 
+	- Slideshow (quarterly-yearly with new event photos)
+	- Events Feed (updated from events folder)
+	- Club Links (when changed, check yearly)
 	
-- **News**:
-	-Add News (weekly or monthly, as notified)
-	-Events (will be updated automatically from feed on landing page)
+* **News**:
+	- Add News (weekly or monthly, as notified)
+	- Events (will be updated automatically from feed on landing page)
 
-- **Alumni**:
-	-Check Give Link (yearly or when changed)
-	-Check Alumni Social Media Links (yearly)
+* **Alumni**:
+	- Check Give Link (yearly or when changed)
+	- Check Alumni Social Media Links (yearly)
 
-- **_Events_**: (as needed- check weekly for new events)
- -[ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
- -[Women in Technology Facebook](https://www.facebook.com/groups/WITSU/)
+* **_Events_**: (as needed- check weekly for new events)
+	- [ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
+	- [Women in Technology Facebook](https://www.facebook.com/groups/WITSU/)
 	
 ### 6) Student Projects
 Need:
 - [ ] Create a new banner image that highlights the technical side of CS students and the department. This could be some sort of diagram, software architecture, algorithms, technologies or frameworks used in projects relating to industry or research.
--Landing
-	-Pictures & Graphics (as needed)
-	-Projects Video (if new versions are produced)
+* Landing
+	- Pictures & Graphics (as needed)
+		- Example:
+			- [Landing Page Graphic](./Projects%20_Landing_Page_Graphic.pub)
+	- Projects Video (if new versions are produced)
 	
-- **Industry Sponsored Projects**:
+* **Industry Sponsored Projects**:
 	- Spotlights (yearly)
-		-[Template.pub]()
+		- Examples:
+			- [Costco](./Costco%20Graphic.pub)
+			- [CommerceHub](./CommerceHub%20graphic.pub)
+			- [Lighthouse For the Blind](./LFTB%20graphic.pub)
+			- [Paccar](./PACCAR%20graphic.pub)
 	- Industry Sponsor Graphic (every 1-2 years)
 	- Last year Highlights with Posters (yearly)
 	- Student Resource PDFs and Forms (yearly, get from project center media)
 	
-- **Research Projects**:
-	-MS Project Resources (yearly, from [Master's Research Coordinator](zhuy@seattleu.edu))
-	-Pictures (every 1-2 years)
-	-Project Names and Publications (add yearly, keep for 4-5 years?)
+* **Research Projects**:
+	- MS Project Resources (yearly, from [Master's Research Coordinator](zhuy@seattleu.edu))
+	- Pictures (every 1-2 years)
+	- Project Names and Publications (add yearly, keep for 4-5 years?)
 	
 ### 7) Learning Outcomes
 
