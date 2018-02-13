@@ -98,8 +98,8 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 	-Check Alumni Social Media Links (yearly)
 
 - **_Events_**: (as needed- check weekly for new events)
-	 -[ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
-	 -[Women in Technology Facebook](https://www.facebook.com/groups/WITSU/)
+ -[ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
+ -[Women in Technology Facebook](https://www.facebook.com/groups/WITSU/)
 	
 ### 6) Student Projects
 Need:
