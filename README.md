@@ -62,6 +62,7 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 
 ### 4) Student Resources
 * Landing
+	- **Contains code content type with custom CSS**
 	- Update Program Overview PDFs (yearly)
 	- Update 2-year course offerings (every 2 years)
 	- Check DreamSpark link (yearly or as changed)
@@ -85,17 +86,22 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 	
 ### 5) Activities and News
 * Landing 
+	- **Contains code content type with custom CSS**
 	- Slideshow (quarterly-yearly with new event photos)
 	- Events Feed (updated from events folder)
 	- Club Links (when changed, check yearly)
 	
 * **News**:
+	- **Contains code content type with custom CSS**
 	- Add News (weekly or monthly, as notified)
 	- Events (will be updated automatically from feed on landing page)
 
 * **Alumni**:
+	- **Contains code content type with custom CSS**
 	- Check Give Link (yearly or when changed)
 	- Check Alumni Social Media Links (yearly)
+	- Alumni Contact form
+		- **Contains code content type with custom CSS
 
 * **_Events_**: (as needed- check weekly for new events)
 	- [ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
@@ -105,12 +111,14 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 Need:
 - [ ] Create a new banner image that highlights the technical side of CS students and the department. This could be some sort of diagram, software architecture, algorithms, technologies or frameworks used in projects relating to industry or research.
 * Landing
+	- **Contains code content type with custom CSS
 	- Pictures & Graphics (as needed)
 		- Example:
 			- [Landing Page Graphic](./Projects%20_Landing_Page_Graphic.pub)
 	- Projects Video (if new versions are produced)
 	
 * **Industry Sponsored Projects**:
+	- **Contains code content type with custom CSS
 	- Spotlights (yearly)
 		- Examples: 
 			- [Costco](./templates/Costco%20Graphic.pub)
