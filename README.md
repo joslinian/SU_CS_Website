@@ -12,18 +12,19 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 
 ### Department of Computer Science
   * **Undergraduate Programs**
-      * **BS Computer Science**
+      * BS Computer Science
       * BSCS - Math
       * BSCS - Business
       * 5-Year Fast Track BS/MS
-      * **BA Computer Science**
+      * BA Computer Science
       * **Transfer Students**
   * **Graduate Programs**
       * **MSCS**
       * MSE
   * **Graduate Certificates**
-      * **Computer Science Fundamentals**
+      * **Career Change to Master's**
           * Bootcamp
+	  * FAQ
       * **Software Architecture and Design**
       * **Software Project Management**
   * **Student Resources**
@@ -92,6 +93,9 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 * **News**:
 	- Add News (weekly or monthly, as notified)
 	- Events (will be updated automatically from feed on landing page)
+	- Summary text should be just a 2-3 lines MAX (~180 characters).
+	- Make all summary images of similar dimensions (approx. 1.2:1 w:H ratio
+	- When listing an event, include the event date in the Summary.
 
 * **Alumni**:
 	- **Contains code content type with custom JS**
