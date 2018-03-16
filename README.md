@@ -103,9 +103,10 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign).
 	- Check Alumni Social Media Links (yearly)
 	- Alumni Contact form
 
-* **_Events_**: (as needed- check weekly for new events)
+* **_Club & Dept.Events_**: (as needed- check weekly for new events)
 	- [ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
 	- [Women in Technology Facebook](https://www.facebook.com/groups/WITSU/)
+	-Delete Old Events
 	
 ### 6) Student Projects
 Need:
@@ -136,3 +137,10 @@ Need:
 ### 7) Learning Outcomes
 
 ### 8) Faculty and Staff Directory
+
+### 9) Section Customizations
+
+### 10) _Department Info Events_
+
+* Grad Info Sessions
+	- update time/location when it changes.
