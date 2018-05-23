@@ -83,7 +83,7 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign), [Punch l
 * update degree options (if changed)
 * Eventually - remove Master of Software Engineering link
 * **Master of Science in Computer Science**
-	-Update degree objectives and catalog links (yearly in Spring for following academic year)
+	- Update degree objectives and catalog links (yearly in Spring for following academic year)
 	- **Admission Requirements**
 		* verify requirements and deadlines (yearly)
 
@@ -116,10 +116,9 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign), [Punch l
 * **Internships**:
 	- Update Internship guide (if changed)
 	- CPT (Curricular Practical Training) Form (if changed)
-	
 	- Needs:
-	 - [ ] photo and/or spotlight of student.
-	 - [X] list/graphic of companies where students have received internships
+		- [ ] photo and/or spotlight of student.
+		- [X] list/graphic of companies where students have received internships
 		
 * **Mentorship**:
 	- Brochure (yearly/as changed)
@@ -128,7 +127,7 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign), [Punch l
 * **Study Abroad**:
 	- Deadlines (yearly or as changed)
 	- Pictures (every 1-2 years)
-	-Popular Programs (as needed or changed)
+	- Popular Programs (as needed or changed)
 	
 ### 5) Activities and News
 * Landing 
@@ -152,7 +151,7 @@ Site [Trello Board](https://trello.com/b/eN8sN4kn/su-website-redesign), [Punch l
 * **_Club & Dept.Events_**: (as needed- check weekly for new events)
 	- [ACM Student Chapter Facebook](https://www.facebook.com/groups/CSCSU)
 	- [Women in Technology Facebook](https://www.facebook.com/groups/WITSU/)
-	-Delete Old Events
+	- Delete Old Events
 	
 ### 6) Student Projects
 Need:
